@@ -18,7 +18,7 @@ const VideoSection: React.FC = () => {
             <iframe
               loading="lazy"
               style={{ border: 'none', width: '100%', height: '500px' }}
-              src="https://youtu.be/EoqH9XElvAE?si=8_4FL---QvQI2ozC"
+              src="https://www.youtube.com/embed/EoqH9XElvAE"
               title="What is an Exoplanet? by NASA"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
               allowFullScreen
