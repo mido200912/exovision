@@ -10,7 +10,7 @@ const CTA: React.FC = () => {
         </p>
         <div className="flex flex-col md:flex-row items-center justify-center gap-6">
           <a
-            href="localhost:5173"
+            href="https://novi-ai-chat-bot.vercel.app/"
             target="_blank"
             rel="noopener noreferrer"
             className="w-full md:w-auto px-10 py-4 text-lg font-semibold text-white bg-gradient-to-r from-cyan-500 to-purple-600 rounded-full shadow-lg shadow-cyan-500/30 hover:shadow-purple-500/40 hover:scale-105 transition-all duration-300 ease-in-out focus:outline-none focus:ring-4 focus:ring-cyan-300"
@@ -18,7 +18,7 @@ const CTA: React.FC = () => {
             Try Our AI
           </a>
           <a
-            href="http://10.54.138.74:3001/"
+            href="https://nasaspaceapps-starhunters.vercel.app/"
             target="_blank"
             rel="noopener noreferrer"
             className="w-full md:w-auto px-10 py-4 text-lg font-semibold text-purple-300 bg-transparent border-2 border-purple-400 rounded-full hover:bg-purple-400 hover:text-slate-900 hover:shadow-lg hover:shadow-purple-400/30 transform hover:scale-105 transition-all duration-300 ease-in-out focus:outline-none focus:ring-4 focus:ring-purple-300"
