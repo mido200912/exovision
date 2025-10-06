@@ -15,14 +15,15 @@ const VideoSection: React.FC = () => {
 
         <div className="max-w-4xl mx-auto shadow-2xl shadow-cyan-500/20 rounded-lg overflow-hidden border border-slate-700">
           <div className="aspect-video">
-            <iframe
-              loading="lazy"
-              style={{ border: 'none', width: '100%', height: '500px' }}
-              src="https://www.youtube.com/embed/EoqH9XElvAE"
-              title="What is an Exoplanet? by NASA"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-              allowFullScreen
-            ></iframe>
+       <iframe
+  loading="lazy"
+  style={{ border: 'none', width: '100%', height: '500px' }}
+  src="https://www.youtube.com/embed/EoqH9XElvAE"
+  title="What is an Exoplanet? by NASA"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowFullScreen
+></iframe>
+
           </div>
         </div>
       </div>
